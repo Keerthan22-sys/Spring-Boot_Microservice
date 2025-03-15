@@ -4,8 +4,8 @@ spring:
       client:
         registration:
           google:
-            client-id: 958362515942-8l43pjjc5k2kr3subl5m69dr1g0d7h39.apps.googleusercontent.com
-            client-secret: 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
+            client-id: 
+            client-secret: 
   webflux:
     hiddenmethod:
       filter:
